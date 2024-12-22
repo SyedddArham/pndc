@@ -1,0 +1,9 @@
+numpy
+Pillow
+matplotlib
+seaborn
+pandas
+mpi4py
+psutil
+memory_profiler
+pyyaml 

@@ -1,0 +1,11 @@
+input_dir: "input"
+output_dir: "results"
+image_sizes:
+  - [512, 512]
+  - [1024, 1024]
+  - [2048, 2048]
+operators:
+  - sobel
+  - prewitt
+  - laplacian
+log_level: "INFO" 
